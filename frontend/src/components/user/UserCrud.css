@@ -1,0 +1,11 @@
+.formulario {
+  display: block;
+}
+
+.botao{
+  margin-left: 12px;
+}
+
+label {
+  padding: 8px;
+}
