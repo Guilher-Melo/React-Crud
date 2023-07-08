@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Ana",
+      "email": "aninha@email.com",
+      "id": 5
+    },
+    {
+      "name": "Max",
+      "email": "maxmax@email.com",
+      "id": 6
+    },
+    {
+      "name": "Guilherme",
+      "email": "guigui123@email.com",
+      "id": 8
+    },
+    {
+      "name": "Teste",
+      "email": "testinho@email.com",
+      "id": 9
+    }
+  ]
+}
